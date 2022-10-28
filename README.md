@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MegaKiwiCoder
-- 👀 I’m interested in science, art, and programing
+- 👀 I’m interested in mathematics, science, art, and programing
 - 🌱 I’m currently learning programing and am not extremely advanced
 - [My Website](https://sites.google.com/view/kiwilinks/home)
+- I am most talented in HTML
 
 <!---
 MegaKiwiCoder/MegaKiwiCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
