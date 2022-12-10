@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MegaKiwiCoder
 - 👀 I’m interested in mathematics, science, art, and programing
 - 🌱 I’m currently learning programing and am not extremely advanced
-- [My Website](https://sites.google.com/view/kiwilinks/home)
+- [My Website](https://megakiwicoder.github.io)
 - I am most talented in HTML and Python
 - Favorate IDE: [VSCodium](https://vscodium.com)
 
