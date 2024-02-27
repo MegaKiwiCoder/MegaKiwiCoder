@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+@MegaKiwiCoder;I+use+the+following+languages:;HTML+and+CSS;Python+and+Bash;This+profile+is+mostly+crap;and+a+few+good+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+@MegaKiwiCoder;I+use+the+following+languages:;HTML+CSS;Python+Bash;This+profile+is+mostly+crap;and+a+few+good+projects)](https://git.io/typing-svg)
